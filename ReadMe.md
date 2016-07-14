@@ -60,18 +60,17 @@
 1. 算術演算
 
 ## chapter13.コレクションフレームワーク
-1. はじめてのコレクション・フレームワーク
 1. List
 1. Set
 1. Map
 1. ラムダ式
 
 ## chapter14.日付・時刻
-1. LocalDate/LocalDateTime/DateTimeFomatterクラス
-1. Dateクラス(x)
-1. Calendarクラス(x)
-1. SimpleDateFormatクラス(x)
-1. TimeZoneクラス(x)
+1. LocalDate/LocalDateTime/DateTimeFormatterクラス
+1. Dateクラス(x)・・・LocalDateを使う
+1. Calendarクラス(x)・・・LocalDateを使う
+1. SimpleDateFormatクラス(x)・・・DateTimeFormatterを使う
+1. TimeZoneクラス(x)・・・ZonedDateTimeを使う
 
 ## chapter15.例外
 1. はじめての例外
