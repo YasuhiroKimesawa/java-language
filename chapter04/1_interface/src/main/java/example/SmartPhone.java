@@ -16,8 +16,8 @@ public class SmartPhone implements Phone
     }
 
     @Override
-    public String phoneType()
+    public PhoneType phoneType()
     {
-        return "スマートフォン";
+        return PhoneType.スマホ;
     }
 }

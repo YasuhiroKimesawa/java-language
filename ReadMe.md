@@ -7,8 +7,8 @@
 1. [型がある](./doc/java-language/JavaLanguage.md)
 
 ## chapter2.はじめてのJava
-1. [Hello World](http://www.javaroad.jp/java_basic1.htm)
-1. [コメント](http://www.javaroad.jp/java_coment.htm)
+1. Hello World
+1. コメント
 
 ## chapter3.クラス
 1. クラス
@@ -34,9 +34,7 @@
 1. 算術演算子
 1. 比較演算子
 1. 条件演算子
-1. シフト演算子
-1. ビット演算子代入演算子・その他の演算子
-1. 演算子の優先順位
+1. 代入演算子
 
 ## chapter9.制御文
 1. while（☓）|do while（☓）|for（x）| for in・・・whileよりfor inを利用する
@@ -66,15 +64,14 @@
 1. List
 1. Set
 1. Map
-1. Iteratorインタフェース
 1. ラムダ式
 
 ## chapter14.日付・時刻
-1. Dateクラス
-1. Calendarクラス
-1. SimpleDateFormatクラス
-1. TimeZoneクラス
-1. LocalDate/LocalDateTimeクラス
+1. LocalDate/LocalDateTime/DateTimeFomatterクラス
+1. Dateクラス(x)
+1. Calendarクラス(x)
+1. SimpleDateFormatクラス(x)
+1. TimeZoneクラス(x)
 
 ## chapter15.例外
 1. はじめての例外

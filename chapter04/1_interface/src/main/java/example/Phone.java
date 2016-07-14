@@ -4,5 +4,5 @@ public interface Phone
 {
     String getNumber();
 
-    String phoneType();
+    PhoneType phoneType();
 }

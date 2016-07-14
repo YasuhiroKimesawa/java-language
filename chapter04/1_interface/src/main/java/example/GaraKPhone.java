@@ -16,9 +16,9 @@ public class GaraKPhone implements Phone
     }
 
     @Override
-    public String phoneType()
+    public PhoneType phoneType()
     {
-        return "ガラケー";
+        return PhoneType.ガラケー;
     }
 
 }
