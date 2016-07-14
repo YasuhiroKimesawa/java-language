@@ -1,6 +1,6 @@
 package example;
 
-public class Phone
+public abstract class Phone
 {
     private String number;
 
@@ -14,8 +14,5 @@ public class Phone
         return this.number;
     }
 
-    public String phoneType()
-    {
-        return "電話";
-    }
+    public abstract String phoneType();
 }
