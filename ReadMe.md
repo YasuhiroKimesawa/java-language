@@ -16,6 +16,7 @@
 1. オーバーライド(X)とオーバーロード・・・継承よりインターフェイスを利用する
 1. superの利用(☓)・・・継承よりインターフェイスを利用する
 1. abstract(X)・・・継承よりインターフェイスを利用する
+1. static
 
 ## chapter4.インタフェース
 1. インタフェース
@@ -27,22 +28,21 @@
 1. アノテーション
 
 ## chapter7.変数
-1. 変数
-1. 基本型の型変換とキャスト
+1. [変数](http://www.javaroad.jp/java_variable.htm)
 
 ## chapter8.演算子
-1. 算術演算子
-1. 比較演算子
-1. 条件演算子
-1. 代入演算子
+1. [算術演算子](http://www.javaroad.jp/java_operator1.htm)
+1. [比較演算子](http://www.javaroad.jp/java_operator2.htm)
+1. [条件演算子](http://www.javaroad.jp/java_operator3.htm)
+1. [代入演算子](http://www.javaroad.jp/java_operator6.htm)
 
 ## chapter9.制御文
-1. while（☓）|do while（☓）|for（x）| for in・・・whileよりfor inを利用する
-1. if|switch（☓）・・・switchよりstateパターンやenumを利用する
-1. break|continue|return
+1. [while（☓）|do while（☓）|for（x）| for in](http://www.javaroad.jp/java_control1.htm)・・・whileよりfor inを利用する
+1. [if|switch（☓）](http://www.javaroad.jp/java_control2.htm)・・・switchよりstateパターンやenumを利用する
+1. [break|continue|return](http://www.javaroad.jp/java_control3.htm)
 
 ## chapter10.配列
-1. 配列の基本（☓）・・・配列よりコレクションを利用する
+1. [配列の基本（☓）](http://www.javaroad.jp/java_array1.htm)・・・配列よりコレクションを利用する
 
 ## chapter11.文字列
 1. Character
