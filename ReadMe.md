@@ -45,50 +45,50 @@
 
 ## chapter9.制御文
 
- 1. [while（☓）|do while（☓）|for（x）| for in](http://www.javaroad.jp/java_control1.htm)・・・whileよりfor inを利用する 
-1. [if|switch（☓）](http://www.javaroad.jp/java_control2.htm)・・・switchよりstateパターンやenumを利用する
- 1. [break|continue|return](http://www.javaroad.jp/java_control3.htm)
+ 1. [while（☓）|do while（☓）|for（x）| for in](http://www.javaroad.jp/java_control1.htm)・・・whileよりfor inを利用する   
+1. [if|switch（☓）](http://www.javaroad.jp/java_control2.htm)・・・switchよりstateパターンやenumを利用する  
+ 1. [break|continue|return](http://www.javaroad.jp/java_control3.htm)  
 
- 
+
 ## chapter10.配列 
 
-1. [配列の基本（☓）](http://www.javaroad.jp/java_array1.htm)・・・配列よりコレクションを利用する
+1. [配列の基本（☓）](http://www.javaroad.jp/java_array1.htm)・・・配列よりコレクションを利用する  
 
 ## chapter11.文字列 
 
-1. [Stringの概要、コンストラクタ](http://www.javaroad.jp/java_character2.htm)
- 1. [Stringのメソッド](http://www.javaroad.jp/java_character3.htm)
- 1. [StringBufferの概要／コンストラクタ](http://www.javaroad.jp/java_character4.htm) 
-1. [StringBufferのメソッド](http://www.javaroad.jp/java_character5.htm) 
-1. [正規表現](http://www.javaroad.jp/java_character7.htm)  
+1. [Stringの概要、コンストラクタ](http://www.javaroad.jp/java_character2.htm)  
+ 1. [Stringのメソッド](http://www.javaroad.jp/java_character3.htm)  
+ 1. [StringBufferの概要／コンストラクタ](http://www.javaroad.jp/java_character4.htm)   
+1. [StringBufferのメソッド](http://www.javaroad.jp/java_character5.htm)   
+1. [正規表現](http://www.javaroad.jp/java_character7.htm)    
 
-## chapter12.数データ
-
- 1. [数値クラスの基本](http://www.javaroad.jp/java_number1.htm) 
-1. [文字列から数、数から文字列へのデータ変換](http://www.javaroad.jp/java_number2.htm)
+## chapter12.数データ  
+  
+ 1. [数値クラスの基本](http://www.javaroad.jp/java_number1.htm)   
+1. [文字列から数、数から文字列へのデータ変換](http://www.javaroad.jp/java_number2.htm)  
 
 ## chapter13.コレクションフレームワーク
 
- 1. [概要](http://www.javaroad.jp/java_collection1.htm) 
-1. List
- 1. Set
- 1. Map
- 1. ラムダ式
+ 1. [概要](http://www.javaroad.jp/java_collection1.htm)   
+1. List  
+ 1. Set  
+ 1. Map  
+ 1. ラムダ式  
 
 ## chapter14.日付・時刻
 
- 1. LocalDate/LocalDateTime/DateTimeFormatterクラス 
-1. Dateクラス(x)・・・LocalDateを使う 
-1. Calendarクラス(x)・・・LocalDateを使う 
-1. SimpleDateFormatクラス(x)・・・DateTimeFormatterを使う 
-1. TimeZoneクラス(x)・・・ZonedDateTimeを使う
+ 1. LocalDate/LocalDateTime/DateTimeFormatterクラス   
+1. Dateクラス(x)・・・LocalDateを使う   
+1. Calendarクラス(x)・・・LocalDateを使う   
+1. SimpleDateFormatクラス(x)・・・DateTimeFormatterを使う   
+1. TimeZoneクラス(x)・・・ZonedDateTimeを使う  
 
 ## chapter15.例外 1. はじめての例外 
 
-1. try|catch|finally
- 1. throws|throw
- 1. アサーション(X)・・・あまり利用されない  
+1. try|catch|finally  
+ 1. throws|throw  
+ 1. アサーション(X)・・・あまり利用されない    
 
 ## chapter16.その他(Java8の新機能) 
 
-1. Optional 
+1. Optional   
