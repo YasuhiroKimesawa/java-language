@@ -45,21 +45,18 @@
 1. [配列の基本（☓）](http://www.javaroad.jp/java_array1.htm)・・・配列よりコレクションを利用する
 
 ## chapter11.文字列
-1. Character
-1. Stringの概要、コンストラクタ
-1. Stringのメソッド
-1. StringBufferの概要／コンストラクタ
-1. StringBufferのメソッド
-1. 文字列の分割
-1. 正規表現
+1. [Stringの概要、コンストラクタ](http://www.javaroad.jp/java_character2.htm)
+1. [Stringのメソッド](http://www.javaroad.jp/java_character3.htm)
+1. [StringBufferの概要／コンストラクタ](http://www.javaroad.jp/java_character4.htm)
+1. [StringBufferのメソッド](http://www.javaroad.jp/java_character5.htm)
+1. [正規表現](http://www.javaroad.jp/java_character7.htm)
 
 ## chapter12.数データ
-1. 数値クラスの基本
-1. 文字列から数、数から文字列へのデータ変換
-1. フォーマット処理
-1. 算術演算
+1. [数値クラスの基本](http://www.javaroad.jp/java_number1.htm)
+1. [文字列から数、数から文字列へのデータ変換](http://www.javaroad.jp/java_number2.htm)
 
 ## chapter13.コレクションフレームワーク
+1. [概要](http://www.javaroad.jp/java_collection1.htm)
 1. List
 1. Set
 1. Map
